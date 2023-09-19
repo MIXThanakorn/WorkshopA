@@ -1,5 +1,5 @@
 print("โปรแกรมตรวจสอบค่า PH จากน้ำประปา")
-
+print("--------------------------------------------")
 def inputcityandPH():
     city = input("What is your city name: ")
     PH = int(input("How much PH in water: "))

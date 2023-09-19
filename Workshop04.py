@@ -1,5 +1,5 @@
 print("จงหาค่า y โดย y = 2x^2+ 2x + 1 ")
-
+print("--------------------------------------------")
 def inputx():
     x = int(input("Type X: "))
     return x

@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนค่าใช้จ่ายในการซื้อแพ็กเกจกการท่องเที่ยว")
-
+print("--------------------------------------------")
 def inputinformation():
     name = input("Tour leader name: ")
     phonenumber = input("Tour leader phonenumber: ")

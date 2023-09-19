@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนค่าเฉลี่ยคะแนนสอบทั้ง 3 ครั้ง")
-
+print("--------------------------------------------")
 def inputnameandscore():
     stunumber = input("Studentnumber: ")
     stuname = input("Studentname: ")

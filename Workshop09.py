@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนค่าคอมมิชชั่น")
-
+print("--------------------------------------------")
 def inputnameandsales():
     number = input("employee number: ")
     name = input("employee name: ")

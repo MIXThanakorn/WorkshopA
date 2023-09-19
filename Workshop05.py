@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนเงินเดือนสุทธิของพนักงาน")
-
+print("--------------------------------------------")
 def inputnameandsalary():
     number = input("employee number: ")
     name = input("employee name: ")

@@ -1,5 +1,5 @@
 print("Bingo game!!")
-
+print("--------------------------------------------")
 def inputnumber():
     number = int(input("Guess the number: "))
     return number

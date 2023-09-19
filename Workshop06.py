@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนดอกเบี้ยเงินกู้")
-
+print("--------------------------------------------")
 def inputloan():
     name = input("Your name: ")
     loan = int(input("your loan: "))

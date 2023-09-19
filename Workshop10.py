@@ -1,5 +1,5 @@
 print("โปรแกรมแสดงข้อความต้อนรับ")
-
+print("--------------------------------------------")
 def inputnameandyear():
     name = input("What's your name: ")
     year = int(input("What year are you in (only1-4): "))

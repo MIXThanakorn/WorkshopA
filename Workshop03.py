@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนภาษี")
-
+print("--------------------------------------------")
 def inputnameandprice():
     price = int(input("productprice: "))
     productname = input("productname: ")

@@ -1,5 +1,5 @@
 print("โปรแกรมคำนวนค่าโทร")
-
+print("--------------------------------------------")
 def inputphonenumberandtime():
     name = input("What's your name: ")
     phonenumber = input("what's your phonenumber: ")
